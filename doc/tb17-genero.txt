@@ -1,0 +1,101 @@
+versão=1.0
+00|Serviço|01012009|
+01|Animais vivos|01012009|
+02|Carnes e miudezas, comestíveis|01012009|
+03|Peixes e crustáceos, moluscos e os outros invertebrados aquáticos|01012009|
+04|Leite e laticínios; ovos de aves; mel natural; produtos comestíveis de origem animal, não especificados nem compreendidos em outros Capítulos da TIPI|01012009|
+05|Outros produtos de origem animal, não especificados nem compreendidos em outros Capítulos da TIPI|01012009|
+06|Plantas vivas e produtos de floricultura|01012009|
+07|Produtos hortícolas, plantas, raízes e tubérculos, comestíveis|01012009|
+08|Frutas; cascas de cítricos e de melões|01012009|
+09|Café, chá, mate e especiarias|01012009|
+10|Cereais|01012009|
+11|Produtos da indústria de moagem; malte; amidos e féculas; inulina; glúten de trigo|01012009|
+12|Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palha e forragem|01012009|
+13|Gomas, resinas e outros sucos e extratos vegetais|01012009|
+14|Matérias para entrançar e outros produtos de origem vegetal, não especificadas nem compreendidas em outros Capítulos da NCM|01012009|
+15|Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal|01012009|
+16|Preparações de carne, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos|01012009|
+17|Açúcares e produtos de confeitaria|01012009|
+18|Cacau e suas preparações|01012009|
+19|Preparações à base de cereais, farinhas, amidos, féculas ou de leite; produtos de pastelaria|01012009|
+20|Preparações de produtos hortícolas, de frutas ou de outras partes de plantas|01012009|
+21|Preparações alimentícias diversas|01012009|
+22|Bebidas, líquidos alcoólicos e vinagres|01012009|
+23|Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais|01012009|
+24|Fumo (tabaco) e seus sucedâneos, manufaturados|01012009|
+25|Sal; enxofre; terras e pedras; gesso, cal e cimento|01012009|
+26|Minérios, escórias e cinzas|01012009|
+27|Combustíveis minerais, óleos minerais e produtos de sua destilação; matérias betuminosas; ceras minerais|01012009|
+28|Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos|01012009|
+29|Produtos químicos orgânicos|01012009|
+30|Produtos farmacêuticos|01012009|
+31|Adubos ou fertilizantes|01012009|
+32|Extratos tanantes e tintoriais; taninos e seus derivados; pigmentos e outras matérias corantes, tintas e vernizes, mástiques; tintas de escrever|01012009|
+33|Óleos essenciais e resinóides; produtos de perfumaria ou de toucador preparados e preparações cosméticas|01012009|
+34|Sabões, agentes orgânicos de superfície, preparações para lavagem, preparações lubrificantes, ceras artificiais, ceras preparadas, produtos de conservação e limpeza, velas e artigos semelhantes, massas ou pastas de modelar, "ceras" para dentistas e composições para dentista à base de gesso|01012009|
+35|Matérias albuminóides; produtos à base de amidos ou de féculas modificados; colas; enzimas|01012009|
+36|Pólvoras e explosivos; artigos de pirotecnia; fósforos; ligas pirofóricas; matérias inflamáveis|01012009|
+37|Produtos para fotografia e cinematografia|01012009|
+38|Produtos diversos das indústrias químicas|01012009|
+39|Plásticos e suas obras|01012009|
+40|Borracha e suas obras|01012009|
+41|Peles, exceto a peleteria (peles com pêlo*), e couros|01012009|
+42|Obras de couro; artigos de correeiro ou de seleiro; artigos de viagem, bolsas e artefatos semelhantes; obras de tripa|01012009|
+43|Peleteria (peles com pêlo*) e suas obras; peleteria (peles com pêlo*) artificial|01012009|
+44|Madeira, carvão vegetal e obras de madeira|01012009|
+45|Cortiça e suas obras|01012009|
+46|Obras de espartaria ou de cestaria|01012009|
+47|Pastas de madeira ou de outras matérias fibrosas celulósicas; papel ou cartão de reciclar (desperdícios e aparas)|01012009|
+48|Papel e cartão; obras de pasta de celulose, de papel ou de cartão|01012009|
+49|Livros, jornais, gravuras e outros produtos das indústrias gráficas; textos manuscritos ou datilografados, planos e plantas|01012009|
+50|Seda|01012009|
+51|Lã e pêlos finos ou grosseiros; fios e tecidos de crina|01012009|
+52|Algodão|01012009|
+53|Outras fibras têxteis vegetais; fios de papel e tecido de fios de papel|01012009|
+54|Filamentos sintéticos ou artificiais|01012009|
+55|Fibras sintéticas ou artificiais, descontínuas|01012009|
+56|Pastas ("ouates"), feltros e falsos tecidos; fios especiais; cordéis, cordas e cabos; artigos de cordoaria|01012009|
+57|Tapetes e outros revestimentos para pavimentos, de matérias têxteis|01012009|
+58|Tecidos especiais; tecidos tufados; rendas; tapeçarias; passamanarias; bordados|01012009|
+59|Tecidos impregnados, revestidos, recobertos ou estratificados; artigos para usos técnicos de matérias têxteis|01012009|
+60|Tecidos de malha|01012009|
+61|Vestuário e seus acessórios, de malha|01012009|
+62|Vestuário e seus acessórios, exceto de malha|01012009|
+63|Outros artefatos têxteis confeccionados; sortidos; artefatos de matérias têxteis, calçados, chapéus e artefatos de uso semelhante, usados; trapos|01012009|
+64|Calçados, polainas e artefatos semelhantes, e suas partes|01012009|
+65|Chapéus e artefatos de uso semelhante, e suas partes|01012009|
+66|Guarda-chuvas, sombrinhas, guarda-sóis, bengalas, bengalas-assentos, chicotes, e suas partes|01012009|
+67|Penas e penugem preparadas, e suas obras; flores artificiais; obras de cabelo|01012009|
+68|Obras de pedra, gesso, cimento, amianto, mica ou de matérias semelhantes|01012009|
+69|Produtos cerâmicos|01012009|
+70|Vidro e suas obras|01012009|
+71|Pérolas naturais ou cultivadas, pedras preciosas ou semipreciosas e semelhantes, metais preciosos, metais folheados ou chapeados de metais preciosos, e suas obras; bijuterias; moedas|01012009|
+72|Ferro fundido, ferro e aço|01012009|
+73|Obras de ferro fundido, ferro ou aço|01012009|
+74|Cobre e suas obras|01012009|
+75|Níquel e suas obras|01012009|
+76|Alumínio e suas obras|01012009|
+77|(Reservado para uma eventual utilização futura no SH)|01012009|
+78|Chumbo e suas obras|01012009|
+79|Zinco e suas obras|01012009|
+80|Estanho e suas obras|01012009|
+81|Outros metais comuns; ceramais ("cermets"); obras dessas matérias|01012009|
+82|Ferramentas, artefatos de cutelaria e talheres, e suas partes, de metais comuns|01012009|
+83|Obras diversas de metais comuns|01012009|
+84|Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes|01012009|
+85|Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios|01012009|
+86|Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos mecânicos (incluídos os eletromecânicos) de sinalização para vias de comunicação|01012009|
+87|Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios|01012009|
+88|Aeronaves e aparelhos espaciais, e suas partes|01012009|
+89|Embarcações e estruturas flutuantes|01012009|
+90|Instrumentos e aparelhos de óptica, fotografia ou cinematografia, medida, controle ou de precisão; instrumentos e aparelhos médico-cirúrgicos; suas partes e acessórios|01012009|
+91|Aparelhos de relojoaria e suas partes|01012009|
+92|Instrumentos musicais, suas partes e acessórios|01012009|
+93|Armas e munições; suas partes e acessórios|01012009|
+94|Móveis, mobiliário médico-cirúrgico; colchões; iluminação e construção pré-fabricadas|01012009|
+95|Brinquedos, jogos, artigos para divertimento ou para esporte; suas partes e acessórios|01012009|
+96|Obras diversas|01012009|
+97|Objetos de arte, de coleção e antiguidades|01012009|
+98|(Reservado para usos especiais pelas Partes Contratantes)|01012009|
+99|Operações especiais (utilizado exclusivamente pelo Brasil para classificar operações especiais na exportação)|01012009|

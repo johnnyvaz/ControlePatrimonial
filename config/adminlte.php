@@ -45,7 +45,7 @@ return [
     |
     */
 
-    'skin' => 'blue',
+    'skin' => 'red',
 
     /*
     |--------------------------------------------------------------------------
@@ -116,11 +116,14 @@ return [
         ],
         [
             'text'        => 'Patrimonio',
-            'url'         => 'patrimonio/patrimonio',
             'icon'        => 'file',
             // 'label'       => 4,
             'label_color' => 'success',
             'submenu' => [
+                [
+                    'text' => 'Cadastro de Patrimônio',
+                    'url'  => 'patrimonio/patrimonio',
+                ],
                 [
                     'text' => 'Cadastro de Tipo',
                     'url'  => 'patrimonio/tipo',
@@ -128,7 +131,7 @@ return [
                 [
                     'text' => 'Cadastro de Estado',
                     'url'  => 'patrimonio/estado',
-                ]
+                ],
                 ],
         ],
         'Suas Configurações',

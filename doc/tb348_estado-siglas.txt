@@ -1,0 +1,28 @@
+versão=3 Sigla_UF, DESC_UF, DT_INI, DT_FIM
+AC|Acre|01012009|
+AL|Alagoas|01012009|
+AM|Amazonas|01012009|
+AP|Amapá|01012009|
+BA|Bahia|01012009|
+DF|Distrito Federal|01012009|
+CE|Ceará|01012009|
+ES|Espírito Santo|01012009|
+GO|Goiás|01012009|
+MA|Maranhão|01012009|
+MT|Mato Grosso|01012009|
+MS|Mato Grosso do Sul|01012009|
+MG|Minas Gerais|01012009|
+PA|Pará|01012009|
+PB|Paraíba|01012009|
+PE|Pernambuco|01012009|
+PR|Paraná|01012009|
+PI|Piauí|01012009|
+RJ|Rio de Janeiro|01012009|
+RN|Rio Grande do Norte|01012009|
+RS|Rio Grande do Sul|01012009|
+RR|Roraima|01012009|
+RO|Rondônia|01012009|
+SC|Santa Catarina|01012009|
+SP|São Paulo|01012009|
+SE|Sergipe|01012009|
+TO|Tocantins|01012009|
