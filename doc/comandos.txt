@@ -1,0 +1,24 @@
+criar crud patrimonio
+php artisan crud:generate Patrimonio --fields='
+descricao#string;
+marca#string;
+tipo#select#options=
+{"mobiliario": "Mobiliário",
+ "informatica": "Informática",
+  "Musicais": "Instrumentos Musicais",
+   "som":"Equipamentos de Som",
+    "cozinha":"Cozinha",
+     "eletronicos":"Eletrônicos",
+      "ferramentas":"Ferramentas",
+       "jardim":"Jardim"};
+        estado#select#options=
+        {"novo":"Novo",
+        "bom":"Bom",
+        "regular":"Regular",
+        "ruim":"Ruim",
+        "pessimo":"Péssimo"};
+         valor#decimal; quantidade#integer; total#decimal; dataAquisicao#date; observacao#text; foto#file'
+          --view-path=patrimonio 
+          --controller-namespace=patrimonio 
+          --route-group=patrimonio 
+          --form-helper=html
