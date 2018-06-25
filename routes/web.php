@@ -22,3 +22,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('admin/teste', 'Teste\\TesteController');
 Route::resource('patrimonio/tipo', 'patrimonio\\TipoController');
 Route::resource('patrimonio/estado', 'patrimonio\\EstadoController');
+Route::resource('patrimonio/patrimonio', 'patrimonio\\PatrimonioController');

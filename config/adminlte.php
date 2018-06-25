@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'Help Desk',
+    'title' => 'Johnny Vaz',
 
     'title_prefix' => '',
 
@@ -30,9 +30,9 @@ return [
     |
     */
 
-    'logo' => 'AnDes Help Desk',
+    'logo' => 'Johnny Vaz',
 
-    'logo_mini' => 'AnDes',
+    'logo_mini' => 'JV',
 
     /*
     |--------------------------------------------------------------------------
@@ -115,11 +115,21 @@ return [
             'can'  => 'manage-blog',
         ],
         [
-            'text'        => 'Pages',
-            'url'         => 'admin/pages',
+            'text'        => 'Patrimonio',
+            'url'         => 'patrimonio/patrimonio',
             'icon'        => 'file',
-            'label'       => 4,
+            // 'label'       => 4,
             'label_color' => 'success',
+            'submenu' => [
+                [
+                    'text' => 'Cadastro de Tipo',
+                    'url'  => 'patrimonio/tipo',
+                ],
+                [
+                    'text' => 'Cadastro de Estado',
+                    'url'  => 'patrimonio/estado',
+                ]
+                ],
         ],
         'Suas Configurações',
         [
